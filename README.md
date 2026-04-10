@@ -13,7 +13,7 @@
 
 
 #### **simple cloning commands**
-
+1. 
 ```python
 git clone https://github.com/Aladdin-Ghribi/fastApi_template.git
 cd fastApi_template
@@ -21,6 +21,8 @@ uv sync
 docker compose up -d
 uv run uvicorn app.main:app --reload
 ```
+2. create your own .env file with .env.example 
+
 
 
 
