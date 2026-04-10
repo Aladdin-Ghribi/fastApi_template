@@ -31,4 +31,4 @@ uv run uvicorn app.main:app --reload
 
 
 
-### and you good to go with you application :)
+### and you good to go with your application :)
