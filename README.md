@@ -19,14 +19,11 @@ git clone https://github.com/Aladdin-Ghribi/fastApi_template.git
 cd fastApi_template
 uv sync
 docker compose up -d
-uv run uvicorn app.main:app --reload
+.\.venv\Scripts\activate.ps1
 ```
 2. create your own .env file with .env.example 
 
-
-
-
-
+3. `uv run uvicorn app.main:app --reload`
 
 
 
